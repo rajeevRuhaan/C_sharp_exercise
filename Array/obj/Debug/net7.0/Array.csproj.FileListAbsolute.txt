@@ -1,0 +1,15 @@
+C:\Users\s2100155\Tiedostot\Rajeev_personal\Projects\c_programming\Array\bin\Debug\net7.0\Array.exe
+C:\Users\s2100155\Tiedostot\Rajeev_personal\Projects\c_programming\Array\bin\Debug\net7.0\Array.deps.json
+C:\Users\s2100155\Tiedostot\Rajeev_personal\Projects\c_programming\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+C:\Users\s2100155\Tiedostot\Rajeev_personal\Projects\c_programming\Array\bin\Debug\net7.0\Array.dll
+C:\Users\s2100155\Tiedostot\Rajeev_personal\Projects\c_programming\Array\bin\Debug\net7.0\Array.pdb
+C:\Users\s2100155\Tiedostot\Rajeev_personal\Projects\c_programming\Array\obj\Debug\net7.0\Array.csproj.AssemblyReference.cache
+C:\Users\s2100155\Tiedostot\Rajeev_personal\Projects\c_programming\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2100155\Tiedostot\Rajeev_personal\Projects\c_programming\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+C:\Users\s2100155\Tiedostot\Rajeev_personal\Projects\c_programming\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+C:\Users\s2100155\Tiedostot\Rajeev_personal\Projects\c_programming\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\s2100155\Tiedostot\Rajeev_personal\Projects\c_programming\Array\obj\Debug\net7.0\Array.dll
+C:\Users\s2100155\Tiedostot\Rajeev_personal\Projects\c_programming\Array\obj\Debug\net7.0\refint\Array.dll
+C:\Users\s2100155\Tiedostot\Rajeev_personal\Projects\c_programming\Array\obj\Debug\net7.0\Array.pdb
+C:\Users\s2100155\Tiedostot\Rajeev_personal\Projects\c_programming\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+C:\Users\s2100155\Tiedostot\Rajeev_personal\Projects\c_programming\Array\obj\Debug\net7.0\ref\Array.dll

@@ -37,7 +37,8 @@ public class GFG {
     int *p1, *p;   // Invalid 
   ```
 ### C# | Variables
-<h3>Variable is a placeholder of the information which can be changed at runtime. And variables allows to Retrieve and Manipulate the stored information.</h3>
+<h3>Variable is a placeholder of the information which can be changed at runtime. 
+And variables allows to Retrieve and Manipulate the stored information.</h3>
 
 *Rules for Naming Variables*
 - Variable names can contain the letters ‘a-z’ or ’A-Z’ or digits 0-9 as well as the character ‘_’.
@@ -64,4 +65,16 @@ x = 5; // initializing x with value 5
     long | sbyte | short | struct 
     unit | ulong  | ushort
 
+2. Reference Type Keywords: There are 6 keywords in reference types which are used to store references of the data or objects. 
+    The keywords in this category are: class, delegate, interface, object, string, void.
+ 
 
+1. Modifiers Keywords: There are 17 keywords in modifiers which are used to modify the declarations of type member.
+
+    1 | 2 | 3 | 4
+    | --- | --- | --- | --- |
+    public | private | internal | protected	
+    abstract | const | event | extern	
+    new	| override | partial | readonly	
+    sealed | static	| unsafe | virtual	
+    volatile	
